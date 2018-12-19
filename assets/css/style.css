@@ -1,0 +1,60 @@
+body {
+  background: url("../images/vector-outline-linear-pattern.jpg");
+}
+
+#mainContainer {
+  width: 960px;
+}
+
+.titleBarBox {
+  padding: 15px;
+  border-style: solid;
+  margin: 10px;
+  background-color: rgb(189, 56, 56);
+  color: yellow;
+  left: 10px;
+  text-align: left;
+}
+
+.instructionsBox {
+  background-color: rgb(226, 170, 164);
+  color: rgb(53, 139, 89);
+  font-weight: bold;
+  margin: 5px;
+  left: 20px;
+  /* padding-bottom: 80px; */
+}
+
+.startScoreBox {
+  background-color: mediumseagreen;
+  padding-bottom: 40px;
+  margin: 5px;
+  left: 20px;
+  height: 80px;
+}
+
+.winlossBox {
+  background-color: lightskyblue;
+  height: 80px;
+  margin: 5px;
+  left: 15px;
+  text-align: left;
+}
+
+.crystaljpg {
+  height: 80px;
+  width: 80px;
+  margin: 5px;
+}
+
+.totalScoreIsBox {
+  background-color: royalblue;
+  margin: 5px;
+
+}
+
+.totalScoreBox {
+  background-color: royalblue;
+  margin: 5px;
+
+}
